@@ -15,7 +15,7 @@ In this lab, I configured a DHCP Server. A DHCP, an acronym for Dynamic Host Con
 
 <p align="center">
 Start by clicking the Server Manager: <br/>
-<img src="https://i.postimg.cc/kXVVX8TZ/Screen-Shot-2022-06-17-at-6-29-29-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<img src="https://i.postimg.cc/Bn4yKQpN/Screen-Shot-2022-06-17-at-6-29-29-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
 <br />
   
   
