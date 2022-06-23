@@ -21,14 +21,14 @@ Start by clicking the Server Manager: <br/>
   
 <br />
 Click the flag icon and from there click the Complete DHCP configuration link:  <br/>
-<img src="https://i.postimg.cc/m2fgyqLL/Screen-Shot-2022-06-17-at-6-32-27-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<img src="https://i.postimg.cc/cJ8r7JTX/Screen-Shot-2022-06-22-at-9-01-33-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
 <br />
   
   
   
 <br />
 Click Commit then Close: <br/>
-<img src="https://i.postimg.cc/TPf6yMJS/Screen-Shot-2022-06-17-at-6-34-45-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<img src="https://i.postimg.cc/fRgj8Jsd/Screen-Shot-2022-06-22-at-9-07-38-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
   <img src="https://i.postimg.cc/Njy415p2/Screen-Shot-2022-06-17-at-6-35-42-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
 <br />
   
@@ -36,7 +36,7 @@ Click Commit then Close: <br/>
   
 <br />
 Click the flag icon to make sure the configuration completed for DHCP Server at 366m-V2:  <br/>
-<img src="https://i.postimg.cc/GhstQwTt/Screen-Shot-2022-06-17-at-6-39-08-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<img src="https://i.postimg.cc/FHBsWJK0/Screen-Shot-2022-06-22-at-9-13-07-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
 <br />
   
   
@@ -94,7 +94,7 @@ In the right pane double click DHCP:  <br/>
   <br />
 IN the right pane, navigate to DHCP then 366m-v2.mshome.net then IPv4:  <br/>
 <img src="https://i.postimg.cc/nc1sMsMx/Screen-Shot-2022-06-17-at-6-59-35-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
-<img src="https://i.postimg.cc/P5z0gj62/Screen-Shot-2022-06-17-at-7-00-25-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<img src="https://i.postimg.cc/Vk1Hx7J8/Screen-Shot-2022-06-22-at-9-15-57-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
 <br />
   
   
@@ -102,7 +102,7 @@ IN the right pane, navigate to DHCP then 366m-v2.mshome.net then IPv4:  <br/>
   
   <br />
 Right click IPv4 and select New Scope:  <br/>
-<img src="https://i.postimg.cc/Y0yk5wbv/Screen-Shot-2022-06-17-at-7-03-47-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<img src="https://i.postimg.cc/MZ5c0H1m/Screen-Shot-2022-06-22-at-9-18-10-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
 <br />
   
   
@@ -126,14 +126,14 @@ Type Name and Description and then click next:  <br/>
   
  <br />
 In the IP range window, type Start IP address as 192.168.137.2 then type End IP address as 192.168.137.250, and then click next button:  <br/>
-<img src="https://i.postimg.cc/D07Scsz7/Screen-Shot-2022-06-17-at-7-13-26-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<img src="https://i.postimg.cc/zBcTjfgB/Screen-Shot-2022-06-22-at-9-23-00-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
 <br />
   
   
   
   <br />
 In the Add Exclusions And Delay window, click Next without adding any excluded addresses or delays:  <br/>
-<img src="https://i.postimg.cc/wjRDMXyr/Screen-Shot-2022-06-17-at-7-15-10-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<img src="https://i.postimg.cc/pL4k2qTr/Screen-Shot-2022-06-22-at-9-20-46-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
 <br />
   
   
@@ -167,7 +167,7 @@ In the Router (Default Gateway) window, type IP address as 192.168.137.1 and the
 Once the address is added, click the Next button three times:  <br/>
 <img src="https://i.postimg.cc/VsDfT5sZ/Screen-Shot-2022-06-17-at-7-26-54-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
   <img src="https://i.postimg.cc/4yNBSW4d/Screen-Shot-2022-06-17-at-7-29-49-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
-  <img src="https://i.postimg.cc/FRfyqzwM/Screen-Shot-2022-06-17-at-7-30-55-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+  <img src="https://i.postimg.cc/N0Fp6FJy/Screen-Shot-2022-06-22-at-9-26-28-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
 <br />
   
   
